@@ -4,8 +4,15 @@
   "author": "Ryo Hasegawa",
   "hash_date": "2026-11-09",
   "source_notebook_sha256": "5ec0dea62c0a304f5529bfd7ddac77cff8040b859724917840a007cb771fafaa",
-  "archived_notebook_sha256": "9052a17385fc9ab7f861650d98650fec8321701e9eab20c64dff9e59c814be0a",
+  "archived_notebook_sha256": "6dd4a286a179a2266a75c9860917d33866a91ef0baa42df0039a15a69124cf04",
   "outputs_cleared": true,
   "external_assets_omitted": true,
-  "runtime": "Kaggle-style GPU notebook with competition input and external model artifacts"
+  "runtime": "Kaggle-style GPU notebook with competition input and external model artifacts",
+  "modifications": [
+    "Cleared outputs and all cell execution metadata",
+    "Added third-party attribution and modification notices",
+    "Removed private owner slugs and stale internal notes",
+    "Corrected archival descriptions and stale display strings",
+    "Normalized line endings to LF"
+  ]
 }

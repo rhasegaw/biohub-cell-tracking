@@ -23,8 +23,8 @@ The archived notebooks are cleaned copies of the two source notebooks. Their sou
 
 | Variant | Source notebook SHA-256 | Archived notebook SHA-256 |
 |---|---|---|
-| 201 | `5ec0dea62c0a304f5529bfd7ddac77cff8040b859724917840a007cb771fafaa` | `9052a17385fc9ab7f861650d98650fec8321701e9eab20c64dff9e59c814be0a` |
-| 244 | `3ef9670340cfa2528822ea4c12fb2bdc65040a3c156c8a246275b09e557df50b` | `979b52b43cceb0974232ad1febe86b60c68877d2afb2b288b18a4e72541d6119` |
+| 201 | `5ec0dea62c0a304f5529bfd7ddac77cff8040b859724917840a007cb771fafaa` | `6dd4a286a179a2266a75c9860917d33866a91ef0baa42df0039a15a69124cf04` |
+| 244 | `3ef9670340cfa2528822ea4c12fb2bdc65040a3c156c8a246275b09e557df50b` | `ac506e773a696c911b64bfef03324a8787a8c8922cdbb8b1acc988b854e810cb` |
 
 The archive hash is regenerated whenever the publication copy changes; the source hash is preserved from the original notebook.
 
