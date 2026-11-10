@@ -1,0 +1,31 @@
+# Unpinned inventory from the notebook dependency table; versions of the
+# scored run were not recorded. Archive metadata targets Python 3.12; CUDA
+# and torch build compatibility remain environment-specific.
+numpy
+pandas
+scipy
+torch
+ipython
+tracksdata
+zarr>=3.0.10,<4
+pyscipopt
+geff>=1.1.3.1.1
+geff-spec<1.2
+ilpy>=0.5.1
+polars>=1.36
+blosc2
+dask
+imagecodecs
+scikit-image>=0.24
+pyarrow
+rustworkx>=0.17.1
+sqlalchemy>=2
+numcodecs>=0.13,<0.16
+networkx>=3.2.1
+pydantic>=2.11
+typing-extensions>=4.13
+rich
+tifffile
+imageio
+pillow
+tqdm

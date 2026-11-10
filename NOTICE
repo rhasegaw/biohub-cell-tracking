@@ -1,0 +1,25 @@
+Biohub cell tracking archival research release
+
+This archive contains code lineage derived from the public Kaggle notebook
+"Biohub 0.953 LB | ORIGINAL":
+https://www.kaggle.com/code/anvithpothula/biohub-0-953-lb-original
+
+That upstream notebook page states that the notebook is released under the
+Apache License, Version 2.0. The complete license text is reproduced in
+licenses/Apache-2.0.txt. This publication copy modifies the retained lineage
+by clearing outputs and authoring metadata, removing private validators and
+slugs, and documenting omitted external assets.
+
+The `TemporalUNet3D` and `SimpleNodeTransformer` baseline origin is credited
+to the BSD-3-Clause repository at:
+https://github.com/royerlab/kaggle-cell-tracking-competition
+The complete checked text is reproduced in licenses/BSD-3-Clause.txt.
+
+The upstream page did not expose a separate copyright-holder notice in the
+material inspected for this release; no additional upstream copyright holder
+is asserted here. No license is granted for Ryo Hasegawa's own additions
+pending explicit publication approval.
+
+Public model/support datasets are linked, not copied; their reported licenses
+and URLs are recorded in THIRD_PARTY.md. External weights and data without a
+verified public redistribution license are omitted.
