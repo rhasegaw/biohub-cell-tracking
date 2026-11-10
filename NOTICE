@@ -17,8 +17,9 @@ The complete checked text is reproduced in licenses/BSD-3-Clause.txt.
 
 The upstream page did not expose a separate copyright-holder notice in the
 material inspected for this release; no additional upstream copyright holder
-is asserted here. No license is granted for Ryo Hasegawa's own additions
-pending explicit publication approval.
+is asserted here. Original additions and documentation are copyright 2026
+Ryo Hasegawa and licensed under the Apache License, Version 2.0. Third-party
+portions retain their applicable notices and terms.
 
 Public model/support datasets are linked, not copied; their reported licenses
 and URLs are recorded in THIRD_PARTY.md. External weights and data without a

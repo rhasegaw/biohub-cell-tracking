@@ -34,6 +34,6 @@ The datasets are linked, not copied into this repository. Their current terms an
 
 ## Omitted assets and author additions
 
-Corrected detector weights, edge-predictor weights, mitosis-gate weights, refinement weights, competition data, and any artifact without a verified public redistribution permission are intentionally omitted. The notebooks treat them as external prerequisites. No license is granted for the author's own additions pending explicit publication approval.
+Corrected detector weights, edge-predictor weights, mitosis-gate weights, refinement weights, competition data, and any artifact without a verified public redistribution permission are intentionally omitted. The notebooks treat them as external prerequisites. The author's original additions and documentation are licensed under Apache-2.0, © 2026 Ryo Hasegawa. This grant does not change the terms of third-party code or external assets.
 
 The re-implemented DeepCenter model definition follows the architecture in the [DeepCenter center-prior pack](https://www.kaggle.com/datasets/pilkwang/biohub-deepcenter-unet3d-center-prior-v1), whose reported CC0 terms are recorded above.

@@ -61,6 +61,6 @@ The notebooks are cleaned publication copies: outputs, private authoring metadat
 
 ## License and attribution
 
-This is a mixed-provenance archive. No license is granted for the author's own additions pending explicit publication approval. See `LICENSE`, `NOTICE`, and `THIRD_PARTY.md` for the Apache-2.0 base-notebook attribution, public dataset records, BSD-3-Clause baseline attribution, and redistribution boundary.
+Original additions and documentation are licensed under Apache-2.0, © 2026 Ryo Hasegawa. This is a mixed-provenance archive; third-party portions retain their applicable terms. See `LICENSE`, `NOTICE`, and `THIRD_PARTY.md` for the Apache-2.0 base-notebook attribution, public dataset records, BSD-3-Clause baseline attribution, and redistribution boundary.
 
 Publication changes also correct stale print/comment strings. Variant 244 carries the documented one-line guard edit; the hashed source file would fail its own guard and is therefore not the executed kernel artifact.
