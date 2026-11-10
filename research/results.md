@@ -47,3 +47,5 @@ The task detects and links nuclei in 3D+t zebrafish embryo volumes. The competit
 ## Reproducibility limits
 
 The archive omits data and model artifacts, and the final official submission is not byte-mapped to either archived notebook. The corrected-detector artifact is not checksum-verified in the notebook. A future rerun should report its own asset hashes, notebook hash, environment, and official score separately from the result above.
+
+The hashed 244 source would fail its own guard and is therefore not the executed kernel artifact. The archive additionally corrects stale print/comment strings in both variants.

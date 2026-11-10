@@ -23,3 +23,5 @@ pending explicit publication approval.
 Public model/support datasets are linked, not copied; their reported licenses
 and URLs are recorded in THIRD_PARTY.md. External weights and data without a
 verified public redistribution license are omitted.
+
+Publication changes also correct stale print/comment strings; variant 244 carries a one-line disappearance-guard edit (2 to 3.0). The DeepCenter architecture definition follows the linked biohub-deepcenter-unet3d-center-prior-v1 pack.
